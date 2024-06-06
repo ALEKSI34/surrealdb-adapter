@@ -25,4 +25,7 @@
 
 ---
 
+Actually fork of the original surrealdb-adapter. But that doesn't work, so made a fork.
+
+---
 Check out the documentation at [authjs.dev](https://authjs.dev/reference/adapter/surrealdb).
