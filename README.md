@@ -27,5 +27,7 @@
 
 Actually fork of the original surrealdb-adapter. But that doesn't work, so made a fork.
 
+Implements the new RecordId from surrealdb.js, fixes signin and relogin. Haven't done tests, as my project isn't at that stage yet, fine for prototyping atleast. Hoping official support comes by then.
+
 ---
 Check out the documentation at [authjs.dev](https://authjs.dev/reference/adapter/surrealdb).
